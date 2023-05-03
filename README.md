@@ -1,6 +1,7 @@
 # Covid-19 Confirmed Cases Prediction Project
 
-This project aims to predict the confirmed cases of Covid-19 all over the world using machine learning algorithms such as SVM, polynomial regression, and linear regression. The project also preprocesses the data files released by John Hopkins University on GitHub and analyzes the data by drawing various plots such as confirmed cases vs date, top countries with the most cases, and more.
+This is the notebook which preprocesses the data files released by John Hopkins University on GitHub and analyzes the data by drawing various plots such as confirmed cases vs date, top countries with the most cases, and more.
+It alsp predicts the confirmed cases of Covid-19 all over the world using machine learning algorithms such as SVM, polynomial regression, and linear regression.
 
 ## Dependencies
 * pandas
